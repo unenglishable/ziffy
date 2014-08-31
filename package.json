@@ -1,5 +1,10 @@
 {
+  "name": "ziffy",
+  "version": "0.0.0",
   "main": "ziffy.js",
+  "repository": {
+    "type": "git"
+  },
   "dependencies": {
     "colors": "^0.6.2",
     "path": "^0.4.9",
