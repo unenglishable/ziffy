@@ -1,5 +1,20 @@
 # ziffy
 
+###package.json
+
+````
+{
+...
+  "dependencies": {
+    ...
+    "ziffy": "git://github.com/unenglishable/ziffy",
+    ...
+  }
+...
+}
+
+````
+
 ## Usage
 
 ````
