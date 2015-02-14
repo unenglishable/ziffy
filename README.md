@@ -1,5 +1,13 @@
 # ziffy
 
+### Install as binary:
+
+````
+git clone https://github.com/unenglishable/ziffy.git
+cd ziffy
+npm install -g
+````
+
 ###package.json
 
 ````
