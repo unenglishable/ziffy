@@ -1,6 +1,9 @@
 {
   "name": "ziffy",
   "version": "0.0.0",
+  "bin": {
+    "ziffy": "./bin.js"
+  },
   "main": "ziffy.js",
   "repository": {
     "type": "git"
